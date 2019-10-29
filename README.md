@@ -1,7 +1,7 @@
+//
 This is a todo web app that has the following features:
-    * Add Todo
-    * Delete Todo
-    * Mark complete when the task is done
+_ Add Todo
+_ Delete Todo \* Mark complete when the task is done
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
